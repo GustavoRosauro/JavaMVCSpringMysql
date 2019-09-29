@@ -1,0 +1,10 @@
+com\pessoa\model\PessoaModel.class
+com\pessoa\controller\PessoaController.class
+com\pessoa\service\PessoaService.class
+com\pessoa\config\WebInitializer.class
+com\pessoa\dao\PessoaDAOImpl$PessoaMapper.class
+com\pessoa\service\PessoaServiceImpl.class
+com\pessoa\dao\PessoaDAOImpl$1.class
+com\pessoa\config\WebConfig.class
+com\pessoa\dao\PessoaDAO.class
+com\pessoa\dao\PessoaDAOImpl.class
